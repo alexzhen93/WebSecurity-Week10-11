@@ -21,13 +21,13 @@ I followed the instructions given for this lab to set up Google Cloud Platform. 
 ## A summary of the data collected: 
 
 ### MHN
-https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/mhn.gif
+![](https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/mhn.gif)
 
 ## ATTACKS
-https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/Attack.gif
+![](https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/Attack.gif)
 
 ## SENSOR
-https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/Sensor.gif
+![](https://github.com/alexzhen93/WebSecurity-Week10-11/blob/master/Sensor.gif)
 
 ## Resources
 GIFs created with [LiceCap](https://www.cockos.com/licecap/)
